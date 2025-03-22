@@ -159,7 +159,7 @@ export default function Home() {
           transition={{ duration: 0.5 }}
           className="text-center mb-12"
         >
-          <h1 className="text-5xl font-bold gradient-heading mb-4 glow-effect">Brain Boost Quiz</h1>
+          <h1 className="text-5xl font-bold  mb-4 ">Brain Boost Quiz</h1>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Test your knowledge, track your progress, and challenge yourself with our interactive quizzes
           </p>
